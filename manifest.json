@@ -1,11 +1,11 @@
 {
-    "name": "portfolio_app",
-    "short_name": "portfolio_app",
+    "name": "riskapp",
+    "short_name": "riskapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Risk prediction and mangement.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
