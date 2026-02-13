@@ -1,4 +1,3 @@
 ENV=prod
 BACKEND_API=https://riskapi.codesong.org/
 IS_HTTP_REQUEST_LOGGING_ENABLED=true
-BLEP=test
